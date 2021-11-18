@@ -1,0 +1,7 @@
+{
+  "name": "Login Gonzalo Iglesias",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,14 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Login Gonzalo Iglesias",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"SplashScreen": {
+		  "launchShowDuration": 4000,
+		  "lauchAutoHide": false
+		}
+	}
+}
+
+
